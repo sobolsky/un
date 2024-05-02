@@ -1,7 +1,7 @@
 ---
 layout: default
-# title: Anatomy of Solidarity
-# description: Anatomy of Solidarity in United Nations Voting
+title: Lee Sobolsky
+description: Data Research Projects
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
