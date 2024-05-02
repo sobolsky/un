@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Anatomy of Solidarity
-description: Anatomy of Solidarity in United Nations Voting
+title: Anatomy of Solidarity in UN Voting
+description: Alex Sobolsky
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 ---
-[Home](https://sobolsky.github.io) > [Anatomy of Solidarity in United Nations Voting](./)
+[Data Research Projects](https://sobolsky.github.io) > [Anatomy of Solidarity in UN Voting](./)
 # Glossary
 
 ## Profiles
