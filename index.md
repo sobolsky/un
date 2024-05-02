@@ -1,5 +1,10 @@
 ---
 layout: default
+title: Anatomy of Solidarity
+description: Anatomy of Solidarity in United Nations Voting
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
