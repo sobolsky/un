@@ -6,8 +6,8 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 ---
-
-# Ukraine Political Conditions (2022–2023)
-> ### [1. Research Highlights](https://sobolsky.github.io/upc/)
+# Political Conditions
+## Ukraine Political Conditions (2022–2023)
+> ### [1. Research Highlights](https://sobolsky.github.io/upc/01)
 
 ## [Glossary](https://sobolsky.github.io/un/glossary)
