@@ -6,7 +6,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 ---
-[Home](https://sobolsky.github.io) > [Anatomy of Solidarity in United Nations Voting](https://sobolsky.github.io/un)
+[Home](https://sobolsky.github.io) > [Anatomy of Solidarity in United Nations Voting](./)
 # Glossary
 
 ## Profiles
