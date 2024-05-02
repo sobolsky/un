@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Glossary
-description: Alex Sobolsky
+description: Data Research Projects
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 ---
-[Data Research Projects](https://sobolsky.github.io) > [Anatomy of Solidarity in UN Voting](./)
+[Home](https://sobolsky.github.io) > [Anatomy of Solidarity in UN Voting](./)
 
 ## Profiles
 > ### Voting Profile 
