@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_2
 title: Anatomy of Solidarity
 description: Anatomy of Solidarity in UN Voting
 show_downloads: false
