@@ -7,7 +7,7 @@ google_analytics:
 theme: jekyll-theme-cayman
 ---
 [Anatomy of Solidarity in UN Voting](./)
-
+# Glossaty
 ## Profiles
 > ### Voting Profile 
 > The `Voting Profile` for each country will be called a simple sequence, consisting of -1, 0, 1, and n, reflecting the country’s position on each vote. The length of such a sequence for each country is the same and equals the number of resolutions on the voting topic. 
