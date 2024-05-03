@@ -6,7 +6,7 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 ---
-[Anatomy of Solidarity in UN Voting](./)
+[Anatomy of Solidarity in UN Voting](./) > [Ukraine Political Conditions[(https://sobolsky.github.io/upc)
 # Glossaty
 ## Profiles
 > ### Voting Profile 
