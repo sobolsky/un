@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Glossary
-description: Data Research Projects
+title: Anatomy of Solidarity
+description: Anatomy of Solidarity in UN Voting
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
